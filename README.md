@@ -11,9 +11,9 @@
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td align="center" valign="center" width="100px"><b>BI<b></td>
-      <td align="center" valign="center" width="100px"><b>Backend<b></td>
-      <td align="center" valign="center" width="100px"><b>Dev<b></td>
+      <td align="center" valign="center" width="100px"><b>BI</b></td>
+      <td align="center" valign="center" width="100px"><b>Backend</b></td>
+      <td align="center" valign="center" width="100px"><b>Dev</b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -36,7 +36,8 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/MongoDB-important?logo=MongoDB" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-important?logo=PostgreSQL" /> 
-        <img src="https://img.shields.io/badge/Docker-important?logo=Docker" /> 
+        <img src="https://img.shields.io/badge/Docker-important?logo=Docker" />
+        <img src="https://img.shields.io/badge/S3-important?logo=S3" />
         <img src="https://img.shields.io/badge/Jira-important?logo=Jira" />
         <img src="https://img.shields.io/badge/DBML-important?logo=DBML" />
       </td>
