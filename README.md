@@ -18,7 +18,9 @@
     <tr>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/-Tableau-purple?logo=Tableau" /> 
-        <img src="https://img.shields.io/badge/-DataLens-purple?logo=Cloud" /> 
+        <img src="https://img.shields.io/badge/-DataLens-purple?logo=Cloud" />
+        <img src="https://img.shields.io/badge/-ETL-purple?logo=ETL" /> 
+        <img src="https://img.shields.io/badge/-DWH-purple?logo=DWH" /> 
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Python-green?logo=Python" /> 
