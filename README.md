@@ -30,7 +30,6 @@
         <img src="https://img.shields.io/badge/Numpy-green?logo=Numpy" />
         <img src="https://img.shields.io/badge/Airflow-green?logo=Airflow" />
         <img src="https://img.shields.io/badge/SQL-green?logo=SQL" />
-        <img src="https://img.shields.io/badge/HTML-green?logo=HTML" />
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/MongoDB-important?logo=MongoDB" /> 
