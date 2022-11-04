@@ -47,7 +47,10 @@
 <p align = "center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=max-zorn&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>        
         
 <p align="center">
-  <a href="https://t.me/max_zorn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a> 
+  <a href="https://t.me/max_zorn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/max-zorn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin"  width="50" /></a>
 </p>
